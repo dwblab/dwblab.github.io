@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dwblab</title>
+    <link>http://dwblab.github.io/</link>
+    <description>Recent content on dwblab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://dwblab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writings, Coming Soon</title>
+      <link>http://dwblab.github.io/blog/coming_soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dwblab.github.io/blog/coming_soon/</guid>
+      <description>Coming soon, I will be publishing new articles and recent content written for other publications. Subscribe to my newsletter to get notifications of new content!</description>
+    </item>
+    
+  </channel>
+</rss>
