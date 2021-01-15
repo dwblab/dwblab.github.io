@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on dwblab</title>
-    <link>http://dwblab.github.io/series/</link>
+    <link>http://www.dwblab.com/series/</link>
     <description>Recent content in Series on dwblab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dwblab.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.dwblab.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
