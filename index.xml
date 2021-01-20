@@ -5,14 +5,16 @@
     <link>http://www.dwblab.com/</link>
     <description>Recent content on dwblab - Home of Douglas Breault: Leadership, Quality, Data Science for the Modern Organization</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writings, Coming Soon</title>
       <link>http://www.dwblab.com/blog/coming_soon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.dwblab.com/blog/coming_soon/</guid>
-      <description>Coming soon, I will be publishing new articles and recent content written for other publications. Subscribe to my newsletter to get notifications of new content!</description>
+      <description>Coming soon, I will be publishing new articles and recent content written for other publications. Look forward to new content on Leadership, Robotics, Data Science, Quality, Organizational Change, ISO-9001 and Quality Management Systems, and achieving success in your organization.
+Connecting on Twitter and LinkedIn is a great way to stay connected and subscribing to my newsletter is the best way to ensure you are updated with new content!</description>
     </item>
     
   </channel>
