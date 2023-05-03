@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
-    <link>http://www.dwblab.com/</link>
-    <description>Recent content on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <title>decisions on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+    <link>http://www.dwblab.com/tags/decisions/</link>
+    <description>Recent content in decisions on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/tags/decisions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlock Organizational Transformation with Consent-Based Decision-Making</title>
       <link>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</link>
@@ -15,20 +15,6 @@
       <guid>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</guid>
       <description>Decisions: they are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;rsquo;s a question that&amp;rsquo;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.
 All too often I&amp;rsquo;ve seen teams making incredibly important decisions with no thought into how they come to the decision.</description>
-    </item>
-    
-    <item>
-      <title>Writings, Coming Soon</title>
-      <link>http://www.dwblab.com/blog/coming_soon/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.dwblab.com/blog/coming_soon/</guid>
-      <description>Coming soon, I will be publishing new articles and recent content written for other publications. Look forward to new content on Leadership, Robotics, Data Science, Organizational Change, and achieving success in your organization.
-
-Follow Along Enjoyed this content? To stay up-to-date on the latest events, musings, and posts, please subscribe to my newsletter.
-Enter your email address
-powered by TinyLetter
- </description>
     </item>
     
   </channel>
