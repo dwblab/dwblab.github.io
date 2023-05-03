@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dwblab - Home of Douglas Breault: Leadership, Quality, Data Science for the Modern Organization</title>
+    <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
     <link>http://www.dwblab.com/</link>
-    <description>Recent content on dwblab - Home of Douglas Breault: Leadership, Quality, Data Science for the Modern Organization</description>
+    <description>Recent content on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,16 @@ Follow Along Enjoyed this content? To stay up-to-date on the latest events, musi
 Enter your email address
 powered by TinyLetter
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</guid>
+      <description>title:&amp;#34;Unlock Organizational Transformation with Consent-Based Decision-Making&amp;#34;date:2023-05-03draft:falsetags:[&amp;#34;decisions&amp;#34;,&amp;#34;engineering organization&amp;#34;]Decisions: they are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;rsquo;s a question that&amp;rsquo;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.
+All too often I&amp;rsquo;ve seen teams making incredibly important decisions with no thought into how they come to the decision.</description>
     </item>
     
   </channel>
