@@ -6,7 +6,19 @@
     <description>Recent content in Writings on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Quality of Decisions in Hindsight: A Comprehensive Guide for Leaders</title>
+      <link>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
+      <description>Introduction:
+Brief recap of the previous blog post. Introduction to the new topic: evaluating decision quality in hindsight. The importance of this topic for leaders and teams. The Illusion of Resulting:
+Explanation of the concept: judging decisions based on outcomes. Examples of the illusion of resulting in various contexts. Why this approach is flawed and can lead to incorrect evaluations of decision quality. Result-Independent Decision Evaluation:
+The importance of evaluating decisions independently of the outcome.</description>
+    </item>
+    
     <item>
       <title>Unlock Organizational Transformation with Consent-Based Decision-Making</title>
       <link>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</link>
@@ -15,18 +27,6 @@
       <guid>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</guid>
       <description>Decisions: they are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;rsquo;s a question that&amp;rsquo;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.
 All too often I&amp;rsquo;ve seen teams making incredibly important decisions with no thought into how they come to the decision.</description>
-    </item>
-    
-    <item>
-      <title>Writings, Coming Soon</title>
-      <link>http://www.dwblab.com/blog/coming_soon/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.dwblab.com/blog/coming_soon/</guid>
-      <description>Coming soon, I will be publishing new articles and recent content written for other publications. Look forward to new content on Leadership, Robotics, Data Science, Organizational Change, and achieving success in your organization.
-Follow Along Enjoyed this content? To stay up-to-date on the latest events, musings, and posts, please subscribe to my newsletter.
-Enter your email address
-powered by TinyLetter</description>
     </item>
     
   </channel>
