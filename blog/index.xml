@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
-    <link>http://www.dwblab.com/</link>
-    <description>Recent content on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <title>Writings on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+    <link>http://www.dwblab.com/blog/</link>
+    <description>Recent content in Writings on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluating Decision Quality: A Comprehensive Guide for Engineering Leaders</title>
       <link>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
