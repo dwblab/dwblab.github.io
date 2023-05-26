@@ -2,24 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.dwblab.com/blog/</loc>
+    <loc>https://dwblab.com/posts/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwblab.com/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwblab.com/posts/interviewing-depths-for-all/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwblab.com/tags/hiring/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwblab.com/tags/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwblab.com/tags/decision-making/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.dwblab.com/tags/decision-making/</loc>
+    <loc>https://dwblab.com/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.dwblab.com/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.dwblab.com/tags/</loc>
-    <lastmod>2023-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</loc>
+    <loc>https://dwblab.com/posts/unlock-organizational-transformation-consent-decision-making/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.dwblab.com/series/</loc>
+    <loc>https://dwblab.com/about/</loc>
+  </url><url>
+    <loc>https://dwblab.com/archives/</loc>
+  </url><url>
+    <loc>https://dwblab.com/categories/</loc>
+  </url><url>
+    <loc>https://dwblab.com/contact/</loc>
   </url>
 </urlset>

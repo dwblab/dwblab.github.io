@@ -1,30 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
-    <link>http://www.dwblab.com/</link>
+    <link>https://dwblab.com/</link>
     <description>Recent content on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <image>
+      <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+      <url>https://dwblab.com/assets/douglas-breault-headshot.jpg</url>
+      <link>https://dwblab.com/assets/douglas-breault-headshot.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dwblab.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Depths of Interviewing: A Guide for the Inexperienced and a Refresher for the Seasoned</title>
+      <link>https://dwblab.com/posts/interviewing-depths-for-all/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dwblab.com/posts/interviewing-depths-for-all/</guid>
+      <description>The following is an article I wrote for another platform and re-used internally at two different companies with some modifications. All too often I find front-line managers thrust team members into the interview room without the proper preparations. And why would highly technical people with no experience understand how to conduct an interview and what makes for an effective interview process? These interview best practices aren&amp;rsquo;t a substitute for coaching but will serve as an introduction for those individual contributors and a reminder for those of us who could use the refresher.</description>
+    </item>
+    
     <item>
       <title>Evaluating Decision Quality: A Comprehensive Guide for Engineering Leaders</title>
-      <link>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
+      <link>https://dwblab.com/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
+      <guid>https://dwblab.com/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
       <description>What if the success of your engineering projects didn&amp;rsquo;t solely depend on the outcomes, but on the quality of decisions that led to those outcomes? Would you approach your decision-making process differently? In this comprehensive guide, we delve into the role of decision analysis and how engineering leaders can use it to drive innovative success and continuous learning.
 In our post on decision-making methods, we delved into the dynamics of decision-making in organizations, drawing attention to the different methods and their impact on your team&amp;rsquo;s success and culture.</description>
     </item>
     
     <item>
       <title>Unlock Organizational Transformation with Consent-Based Decision-Making</title>
-      <link>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</link>
+      <link>https://dwblab.com/posts/unlock-organizational-transformation-consent-decision-making/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</guid>
+      <guid>https://dwblab.com/posts/unlock-organizational-transformation-consent-decision-making/</guid>
       <description>Decisions: they are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;rsquo;s a question that&amp;rsquo;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.
 All too often I&amp;rsquo;ve seen teams making incredibly important decisions with no thought into how they come to the decision.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dwblab.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dwblab.com/about/</guid>
+      <description>About Douglas Breault</description>
+    </item>
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dwblab.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dwblab.com/contact/</guid>
+      <description>Contacting Douglas Breault</description>
     </item>
     
   </channel>
