@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>decision-making on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
-    <link>http://www.dwblab.com/tags/decision-making/</link>
-    <description>Recent content in decision-making on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <title>decision-making on My New Hugo Site</title>
+    <link>http://example.org/tags/decision-making/</link>
+    <description>Recent content in decision-making on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluating Decision Quality: A Comprehensive Guide for Engineering Leaders</title>
-      <link>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
+      <link>http://example.org/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.dwblab.com/blog/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
+      <guid>http://example.org/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
       <description>What if the success of your engineering projects didn&amp;rsquo;t solely depend on the outcomes, but on the quality of decisions that led to those outcomes? Would you approach your decision-making process differently? In this comprehensive guide, we delve into the role of decision analysis and how engineering leaders can use it to drive innovative success and continuous learning.
 In our post on decision-making methods, we delved into the dynamics of decision-making in organizations, drawing attention to the different methods and their impact on your team&amp;rsquo;s success and culture.</description>
     </item>
     
     <item>
       <title>Unlock Organizational Transformation with Consent-Based Decision-Making</title>
-      <link>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</link>
+      <link>http://example.org/posts/unlock-organizational-transformation-consent-decision-making/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.dwblab.com/blog/unlock-organizational-transformation-consent-decision-making/</guid>
+      <guid>http://example.org/posts/unlock-organizational-transformation-consent-decision-making/</guid>
       <description>Decisions: they are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;rsquo;s a question that&amp;rsquo;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.
 All too often I&amp;rsquo;ve seen teams making incredibly important decisions with no thought into how they come to the decision.</description>
     </item>

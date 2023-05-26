@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
-    <link>http://www.dwblab.com/tags/</link>
-    <description>Recent content in Tags on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.dwblab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hiring</title>
+      <link>http://example.org/tags/hiring/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/hiring/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>decision-making</title>
-      <link>http://www.dwblab.com/tags/decision-making/</link>
+      <link>http://example.org/tags/decision-making/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.dwblab.com/tags/decision-making/</guid>
+      <guid>http://example.org/tags/decision-making/</guid>
       <description></description>
     </item>
     
