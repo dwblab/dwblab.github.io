@@ -25,6 +25,8 @@
   </url><url>
     <loc>https://www.dwblab.com/blog/</loc>
     <lastmod>2023-05-29T06:34:33-04:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0</priority>
   </url><url>
     <loc>https://www.dwblab.com/posts/interviewing-depths-for-all/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
