@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
     <link>https://www.dwblab.com/tags/</link>
@@ -10,33 +10,36 @@
       <link>https://www.dwblab.com/douglas-breault-headshot.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dwblab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 17:25:51 -0400</lastBuildDate>
+    <atom:link href="https://www.dwblab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sensors</title>
+      <link>https://www.dwblab.com/tags/sensors/</link>
+      <pubDate>Wed, 09 Aug 2023 17:25:51 -0400</pubDate>
+      <guid>https://www.dwblab.com/tags/sensors/</guid>
+      <description></description>
+    </item>
     <item>
       <title>remote-work</title>
       <link>https://www.dwblab.com/tags/remote-work/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dwblab.com/tags/remote-work/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hiring</title>
       <link>https://www.dwblab.com/tags/hiring/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dwblab.com/tags/hiring/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>decision making</title>
       <link>https://www.dwblab.com/tags/decision-making/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dwblab.com/tags/decision-making/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

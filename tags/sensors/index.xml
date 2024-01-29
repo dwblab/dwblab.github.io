@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sensors on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+    <link>https://www.dwblab.com/tags/sensors/</link>
+    <description>Recent content in sensors on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <image>
+      <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+      <url>https://www.dwblab.com/douglas-breault-headshot.jpg</url>
+      <link>https://www.dwblab.com/douglas-breault-headshot.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 17:25:51 -0400</lastBuildDate>
+    <atom:link href="https://www.dwblab.com/tags/sensors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Time LiDAR Data Visualization With Holoviews and Panel</title>
+      <link>https://www.dwblab.com/posts/real-time-lidar-data-visualization-holoviews-panel/</link>
+      <pubDate>Wed, 09 Aug 2023 17:25:51 -0400</pubDate>
+      <guid>https://www.dwblab.com/posts/real-time-lidar-data-visualization-holoviews-panel/</guid>
+      <description>This post explores creating a Python dashboard for real-time LiDAR data visualization using Holoviews and Panel. I have used both Streamlit and Plotly for many robotics projects, but the Holoviz ecosystem has intrigued me for many reasons.</description>
+    </item>
+  </channel>
+</rss>

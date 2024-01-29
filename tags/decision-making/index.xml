@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>decision making on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
     <link>https://www.dwblab.com/tags/decision-making/</link>
@@ -10,24 +10,22 @@
       <link>https://www.dwblab.com/douglas-breault-headshot.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dwblab.com/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dwblab.com/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluating Decision Quality: An Exploration for Engineering Leaders</title>
       <link>https://www.dwblab.com/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dwblab.com/posts/evaluating-decision-quality-comprehensive-guide-for-engineering-leaders/</guid>
       <description>What if the success of your engineering projects didn&amp;#39;t solely depend on the outcomes, but on the quality of decisions that led to those outcomes? Would you approach your decision-making process differently? In this exploratory article, we delve into the role of decision analysis and how engineering leaders can use it to drive innovative success and continuous learning.</description>
     </item>
-    
     <item>
       <title>Unlock Organizational Transformation with Consent-Based Decision-Making</title>
       <link>https://www.dwblab.com/posts/unlock-organizational-transformation-consent-decision-making/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dwblab.com/posts/unlock-organizational-transformation-consent-decision-making/</guid>
       <description>Decisions are fundamental to any organization. They shape strategy, influence culture, and define our daily work. But who gets to make these decisions, and how? That&amp;#39;s a question that&amp;#39;s been the subject of much debate and experimentation, and the answer can have a profound impact on the success and culture of an organization.</description>
     </item>
-    
   </channel>
 </rss>
