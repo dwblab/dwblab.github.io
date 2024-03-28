@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+    <link>https://www.dwblab.com/tags/leadership/</link>
+    <description>Recent content in Leadership on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <image>
+      <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+      <url>https://www.dwblab.com/douglas-breault-headshot.jpg</url>
+      <link>https://www.dwblab.com/douglas-breault-headshot.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2023 16:48:29 -0500</lastBuildDate>
+    <atom:link href="https://www.dwblab.com/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Ills of Social Media in Our Organizations</title>
+      <link>https://www.dwblab.com/posts/navigating-social-media-ills-organizations/</link>
+      <pubDate>Mon, 02 Oct 2023 16:48:29 -0500</pubDate>
+      <guid>https://www.dwblab.com/posts/navigating-social-media-ills-organizations/</guid>
+      <description>Boastful self-promotion on LinkedIn is more than annoying, it’s both a cause and consequence of organizational underperformance. It’s time to address it.</description>
+    </item>
+  </channel>
+</rss>
