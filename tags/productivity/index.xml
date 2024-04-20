@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+    <link>https://www.dwblab.com/tags/productivity/</link>
+    <description>Recent content in Productivity on dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</description>
+    <image>
+      <title>dwblab - Home of Douglas Breault: Innovative Leadership and Engineering</title>
+      <url>https://www.dwblab.com/douglas-breault-headshot.jpg</url>
+      <link>https://www.dwblab.com/douglas-breault-headshot.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 15:27:43 -0400</lastBuildDate>
+    <atom:link href="https://www.dwblab.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escape the Trap of the Perfect Productivity Tool</title>
+      <link>https://www.dwblab.com/posts/escape-trap-perfect-productivity-tool/</link>
+      <pubDate>Wed, 20 Mar 2024 15:27:43 -0400</pubDate>
+      <guid>https://www.dwblab.com/posts/escape-trap-perfect-productivity-tool/</guid>
+      <description>Explore a simple, proven productivity system for tasks and knowledge that prioritizes simplicity, data ownership, and durability without complex tools.</description>
+    </item>
+  </channel>
+</rss>
